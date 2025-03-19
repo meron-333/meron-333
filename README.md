@@ -1,10 +1,10 @@
 - 👋 Hi, I’m meron
-- 👀 I’m interested in new technologies
+- 👀 I’m interested in web design
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on companies that deserve a software engineer
+- 💞️ I’m looking to collaborate on tech Companies that build web applications, SaaS products, or enterprise solutions ,Companies offering web hosting, cloud storage, or content delivery networks 
 - 📫 How to reach me  marinaembaye@gmail.com
 - 😄 Pronouns: I can !!!
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...no gain witout pain
 
 <!---
 meron-333/meron-333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
