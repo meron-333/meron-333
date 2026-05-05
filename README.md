@@ -1,8 +1,8 @@
-- 👋 Hi, I’m meron
+- 👋 Hi, I’m lidya
 - 👀 I’m interested in web design
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on tech Companies that build web applications, SaaS products, or enterprise solutions ,Companies offering web hosting, cloud storage, or content delivery networks 
-- 📫 How to reach me  marinaembaye@gmail.com
+- 📫 How to reach me lidyaberhanu25@gmail.com
 - 😄 Pronouns: I can !!!
 - ⚡ Fun fact: ...no gain witout pain
 
